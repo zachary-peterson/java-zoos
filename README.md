@@ -1,6 +1,6 @@
 # Java Zoos
 
-A student that completes this project shows that they can:
+A student that completes this project shows that they can:  
 
 * Add additional fields to a Many to Many Join Table
 * Add standard auditing fields to each table
